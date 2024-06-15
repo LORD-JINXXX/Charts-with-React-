@@ -31,7 +31,7 @@
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/LORD-JINXXX/Charts-with-React.git
+    git clone https://github.com/LORD-JINXXX/Charts-with-React-.git
     cd charts-with-react/backend
     ```
 
